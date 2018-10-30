@@ -5,7 +5,7 @@ A Programming platform is a platform where a user can see some programming probl
 
 # Installation
 
-The project can be downloaded from https://github.com/hasantarek2002/SPL2. This project should be installed on a Linux based web server. XAMPP (version 7.2.1) web server for Linux needs to be installed. Then the project should be placed in the htdocs folder inside the xampp folder. 
+The project can be downloaded from https://github.com/hasantarek2002/Programming-Platform. This project should be installed on a Linux based web server. XAMPP (version 7.2.1) web server for Linux needs to be installed. Then the project should be placed in the htdocs folder inside the xampp folder. 
 
 	/opt/lampp/htdocs/programmingPlaform/imageUpload
 	/opt/lampp/htdocs/programmingPlaform/setContest/uploads
