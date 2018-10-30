@@ -15,6 +15,8 @@ The project can be downloaded from https://github.com/hasantarek2002/Programming
 The given directory path access should be changed to all user accesses by writing the following command: 
 #chmod 777 directoryPath
 
+C and C++ must be installed in the server computer.
+
 Then we need to create the database by running the following two files
 
 https://github.com/hasantarek2002/Programming-Platform/blob/master/database/createDB.php
